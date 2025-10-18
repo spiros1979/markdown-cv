@@ -2,52 +2,40 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Spiros Zervos 
+ s_zervos79@yahoo.gr  mob: 6972485642 
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://enhmaek.gr/">https://enhmaek.gr/</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Athens/Macedonia Flight Information Region Engineer 
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+CNS (Communications , Navigation , Surveilance)
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Aviation , automation , ubicom .
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`1998-2003`
+__Lamia Technological Institute__ : Electronic Engineering 
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2014-2020`
+__Hellenic Open University__ : Informatics 
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2024 - present`
+__Hellenic Open University__ : Msc in Pervasive and Mobile Computing Systems (SDY)
 
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
 
 
 
@@ -55,32 +43,29 @@ Associate, *French Academy of Science*, Paris, France
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+### ANCO S.A
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`2004 - 2008`
+Electronics , quality and control  in defense systems . 
 
-`1669`
-Lectiones opticæ.
+### Hellenic Petroleum (ELPE)
 
-etc. etc. etc.
+`2008 - 2009`
+Field Instrument engineer , specialized in turbine automation . 
 
-### Patents
+### Hellenic Civil Aviation Provider (YPA)
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2010 - present `
+Ground to ground and ground to air analogue and digital communications Navaids specialist.  
 
 
-## Occupation
 
-`1600`
-__Royal Mint__, London
+## Hobbies 
 
-- Warden
-- Minted coins
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+Cycling , web radio broadcasting , vinyl enthousiast , photography  
+
+
 
 
 
