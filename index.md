@@ -3,7 +3,10 @@ layout: cv
 title: Isaac Newtons's CV
 ---
 # Spiros Zervos 
- s_zervos79@yahoo.gr  mob: 6972485642 
+
+<img src="https://www.dropbox.com/scl/fi/3d0xg1gzqwcu888qviep2/CVpic.jpg?rlkey=oaar7kl7fxps6ot2ldx03zdnb&st=5slnumkw&raw=1" alt="Η φωτογραφία μου" width="150" height="225">
+
+s_zervos79@yahoo.gr         mob: 6972485642 
 
 <div id="webaddress">
 <a href="https://enhmaek.gr/">https://enhmaek.gr/</a>
