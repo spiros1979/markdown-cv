@@ -43,7 +43,7 @@ __Hellenic Open University__ : Msc in Pervasive and Mobile Computing Systems (SD
 
 
 
-## Publications
+## Occupation
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
