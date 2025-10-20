@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Spiros Zervos's CV
+title: Spiros Zervos
 ---
 # Spiros Zervos 
 
