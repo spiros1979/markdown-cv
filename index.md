@@ -60,7 +60,7 @@ Field Instrument engineer , specialized in turbine automation .
 ### Hellenic Civil Aviation Provider (YPA)
 
 `2010 - present `
-Ground to ground and ground to air analogue and digital communications Navaids specialist.  
+Ground to ground and ground to air analogue and digital communications . Navaids (VOR,DME,NDB) certified.  
 
 
 
